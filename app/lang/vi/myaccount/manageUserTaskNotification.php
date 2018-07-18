@@ -1,0 +1,40 @@
+<?php
+return array(
+
+    'notification'                  =>          'Notifications',
+    'reply'                         =>          'Reply',
+    'add_notify'                    =>          'Add Notification',
+    'to_notify'                     =>          'Notify To',
+    'category_name'                 =>          'Category Name',
+    'lock_for_reply'                =>          'Lock For Reply',
+    'user'                          =>          'User',
+    'id'                            =>          'Id',
+    'date_added'                    =>          'Date Added',
+    'date_replied'                  =>          'Date Replied',
+    'is_self_note'                  =>          'Is Self Note',
+    'is_read'                       =>          'Is Read',
+    'list_page_title'               =>          'List Add Notification',
+    'back_to_add'                   =>          'Back to Add',
+    'addNotification_add_success'   =>          'Added Successfully',
+    'read'                          =>          'Read',
+    'new'                           =>          'New',
+    'delete'                        =>          'Delete',
+    'addNotification_delete_success'=>          'Deleted Successfully',
+    'self_notification'             =>          'Self Notifications',
+    'my_notifications'              =>          'My Notifications',
+    'mark_as_read'                  =>          'Mark as Read',
+    'message'                       =>          'Message',
+    'notification_reply'            =>          'Notification Reply',
+    'add_notification'              =>          'Add Notification',
+    'myself'                        =>          'Myself',
+    'admin'                         =>          'Admin',
+    'search_messages'               =>          'Search Messages',
+    'category'                      =>          'Category',
+    'date'                          =>          'Date',
+    'action'                        =>          'Action',
+    'invalid_id'                    =>          'Invalid Id',
+    'back_to_list'                  =>          'Back to list',
+    'marked_read'           =>          'Marked As Read'
+
+
+);

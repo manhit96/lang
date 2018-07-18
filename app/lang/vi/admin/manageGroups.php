@@ -1,0 +1,83 @@
+<?php
+
+//@added by periyasmi_145at11
+
+return array(
+	/*
+	|--------------------------------------------------------------------------
+	| Admin manage group page Languages
+	|--------------------------------------------------------------------------
+	*/
+
+	'page_title' => 'Admin - Manage Groups',
+	'title' => 'Manage Group Name',
+	'search_group' => 'Search Group',
+	'group_name_title' => 'Group name',
+	'description_title' => 'Description',
+	'has_admin_access_title' => 'Has admin access',
+	'no_of_users' => 'No. of users',
+	'actions' => 'Actions',
+	'no_records' => 'No records found to list',
+	'edit_group' => 'Edit group',
+	'delete_group' => 'Delete group',
+	'view_group' => 'View group',
+	'add_group' => 'Add group',
+	'edit_group' => 'Edit group',
+	'group_name' => 'Group name',
+	'description' => 'Description',
+	'default_for' => 'Default for',
+	'module' => 'Module',
+	'po_option' => 'PO',
+	'lpo_option' => 'LPO',
+	'has_admin_access' => 'Has admin access',
+	'group_add_success_message' => 'Group added successsfully',
+	'group_edit_success_message' => 'Group updated successsfully',
+	'page_group_edit_success_message' => 'Page group access permission updated successsfully',
+	'action_group_edit_success_message' => 'Action group access permission updated successsfully',
+	'group_add_member_success_message' => 'Group member added successsfully',
+	'group_delete_member_success_message' => 'Group member deleted successsfully',
+	'group_add_member_success_message' => 'Member added successsfully',
+	'page_member_edit_success_message' => 'Page member access permission updated successsfully',
+	'action_member_edit_success_message' => 'Action member access permission updated successsfully',
+	'already_exists' => 'Group name already exists',
+	'group_member_already_exists' => 'This user already exists in this group',
+	'invalid_member_code_email' => 'No user found',
+	'invalid_group_id' => 'Invalid group id',
+	'user_choice' => 'User|Users',
+	'group_deleted_success_message' => 'Group deleted successsfully',
+	'invalid_action' => 'Invalid action',
+	'delete_group_confirm' =>  'Are you sure you want to delete this group?',
+	'delete_group_member_confirm' =>  'Are you sure you want to delete this group member?',
+
+	'member_page_title' => 'Admin - Manage Group member',
+	'member_title' => 'Manage Group member',
+	'user_name' => 'User name',
+	'group_name' => 'Group name',
+	'add_member' => 'Add member',
+	'add_group_member' => 'Add group member',
+	'user_code_or_email' => 'User code / Email',
+
+	'group_access_page_title' => 'Admin - Manage group access',
+	'group_access_title' => 'Manage Access',
+	'member_access_page_title' => 'Admin - Manage group member access',
+	'member_access_title' => 'Manage member access permission',
+	'page_name' => 'Page name',
+	'page_group_access_list' => 'Page access',
+	'action_group_access_list' => 'Action access',
+	'action_name' => 'Action name',
+	'edit_group_access_page_title' => 'Admin - Edit group access permission',
+	'edit_group_access_title' => 'Edit group access permission',
+	'edit_page_group_access_list' => 'Edit page group access list',
+	'edit_action_group_access_list' => 'Edit action group access list',
+	'default' => 'Default',
+	'enable' => 'Enabled',
+	'disable' => 'Disabled',
+	'delete_group_member' => 'Delete group member',
+	'invalid_user_id' => 'Invalid user id',
+	'edit_page_access' => 'Edit page access',
+	'edit_action_access' => 'Edit action access',
+	'edit_member_access_title' => 'Edit member access permission',
+	'edit_member_access_page_title' => 'Admin - Manage member access',
+	'edit_set_access' => 'Edit / Set Access',
+
+);

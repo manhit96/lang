@@ -1,0 +1,26 @@
+<?php
+return array(
+
+    'add_page_title' => 'Add Registration Field',
+    'field_type' => 'Field Type',
+    'field_name' => 'Field Name',
+    'description' => 'Description',
+    'field_option' => 'Field Option',
+    'validation' => 'Validation',
+    'required' => 'Required',
+    'status' => 'Status',
+    'add_success_msg' => 'Registration Field added Successfully',
+    'list_page_title' => 'Manage Registration Fields',
+    'id' => 'Id',
+    'search_title' => 'Search Registration Fields',
+    'edit_page_title' => 'Edit Registration Field',
+    'update_success_msg' => 'Registration Field Updated Sucessfully',
+    'back_to_list'  => 'Back to List',
+    'action'    => 'Action',
+    'list_none_err_msg' => 'No Registration Fields found',
+    'field_option_tooltip'  => 'More then one values separated by commas',
+    'invalid_field_id'  => 'Invalid Registration Field Id',
+    'delete_lbl'    => 'Delete',
+    'delete_confirm_msg'  => 'Are you sure you want to delete?',
+    'delete_success_msg'  => 'Registration Field Deleted Successfully',
+);

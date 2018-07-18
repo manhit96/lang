@@ -1,0 +1,35 @@
+<?php
+return array(
+
+    'summary' => 'Summary',
+    'date' => 'Date',
+    'title' => 'Profit Report Summary',
+    'reversed_amount' => 'Reversed Amount',
+    'profit_amount' => 'Profit Amount',
+    'imei_profit_amount' => 'IMEI Profit',
+    'file_profit_amount' => 'File Profit',
+    'server_profit_amount' => 'Server Profit',
+    'action' => 'Action',
+    'date_from' => 'Date From',
+    'date_to' => 'Date To',
+    'search_summary' => 'Search Summary',
+    'per_page' => 'Page Size',
+    'service_type' => 'Service Type',
+    'service_name' => 'Service Name',
+    'imei_service_name' => 'IMEI Service',
+    'file_service_name' => 'File Service',
+    'server_service_name' => 'Server Service',
+    'id' => 'Id',
+    'profit' => 'Profit',
+    'service_title' => 'Service Profit',
+    'search_service_summary_profit' => 'Search ',
+    'service_summary_profit' => 'Service Profit',
+    'profit_details' => 'Profit Details',
+    'view_service_details' => 'View Service Details',
+    'recalculate' => 'Recalculate',
+    'search_date_wise_service_report' => 'Search Date wise service profit',
+    'date_wise_service_report' => 'Date wise service profit',
+    'date_wise_report' => 'Date wise Report',
+    'linked_profit_amount' => 'Linked Profit Amount'
+
+);

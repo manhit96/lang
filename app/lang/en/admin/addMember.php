@@ -1,0 +1,87 @@
+<?php
+
+//@added by muralidharan_157ac10
+
+return array(
+	/*
+	|--------------------------------------------------------------------------
+	| Admin add member page
+	|--------------------------------------------------------------------------
+	*/
+
+	// Add Member
+	'addmember_page_title' => 'Add Member',
+	'addsupplier_page_title' => 'Add Supplier',
+	'editmember_page_title' => 'Edit Member',
+	'user_name_label'		=>  'Username',
+	'first_name_label'		=>  'First Name',
+	'last_name_label'		=>  'Last Name',
+	'email_label'		=>  'Email',
+	'imei_label'		=>  'IMEI',
+	'file_label'		=>  'File',
+	'server_label'		=>  'Server',
+	'client_group_label'		=>  'Client Group',
+	'password_label'		=>  'Password',
+	'confirm_password_label'		=>  'Confirm Password',
+	'contact_no_label'		=>  'Contact Number',
+	'member_add_success'	=>  'Member added successfully',
+	'supplier_update_success'	=>  'Supplier Updated Successfully',
+	'member_update_success'	=>  'Member updated successfully',
+	'invalid_user_id'		=>  'Invalid User Id',
+	'commission_type_label'		=>  'Commission Type',
+	'service_access_label'		=>  'Service Access',
+	'commission_type_site_label'		=>  'Site',
+	'commission_type_custom_label'		=>  'Custom',
+	'show_credit_name_label'		=>  'Show Credit & Username in Supplier Panel',
+	'show_credit_label'		=>  'Show Credit in Supplier Panel',
+	'show_name_label'		=>  'Show Username in Supplier Panel',
+	'commission_percent_global'		=>  'Commission Percentage',
+	'commission_percent_gift'		=>  'Commission Percentage for Gift / Mass Payments',
+	'account_associate_error'		=>  'Selected account(s) associated with another user',
+	'control_click_info'		=>  'Use Ctrl + Click to Select / UnSelect',
+	'user_type'					=> 'User Type',
+	'reseller_info_msg'			=> 'This User under Reseller account,You have to login with Reseller account',
+	'reseller'					=> 'Reseller',
+	'allow_duplicate_label'		=> 'Allow Duplicate',
+	'allow_paypal_transaction_funding'=> 'Fund thru Paypal Txn id',
+	'timezone_label'			=> 'Timezone',
+	'supplier_code_label'		=> 'Supplier Code',
+	'user_access'				=> 'User Access',
+	'address_details'  			=> 'Address Details',
+	'address1'  				=> 'Address1',
+	'address2'  				=> 'Address2',
+	'city'  					=> 'City',
+	'state'  					=> 'State',
+	'country'  					=> 'Country',
+	'zipcode' 					=> 'Zip Code/Post Code',
+	'credit_note_msg'			=> 'Change on currency will get convert exist credits',
+	'currency_label'			=> 'Currency',
+	'action_restricted_demo_site'=>'Action Restricted in Demo Site',
+	'is_super_admin'			=> 'Is Super Admin',
+	'allow_api_connection'			=>	'Allow Api Connection',
+	'disable_2step_verification'		=>	'Disable 2-Step Verification',
+	'reset_password_succ_msg'	=> 'Password Reset done Successfully!',
+	'reset_password_label'		=> 'Reset Password and send mail',
+
+	'subscription'				=> array(
+	'title'						=> 'Subscription',
+	'id'						=> 'ID',
+	'subscription_list'			=> 'Subscription List',
+	'service'					=> 'Service',
+	'subscribed_date'			=> 'Subscribed Date',
+	'subscription_end'			=> 'Subscription End',
+	'left_days'					=> 'Left days',
+	'status'					=> 'Status',
+	'no_records_found'			=> 'No records found',
+	'imei_service'				=> 'IMEI',
+	'file_service'				=> 'File',
+	'server_service'			=> 'Server',
+	'price'						=> 'Price',
+	'period'					=> 'Period',
+	'pay_from_account'			=> 'Pay from Account Balance',
+	'available_balance'			=> 'Available Balance',
+	'username'					=> 'Username',
+	'currency_label'			=> 'Currency',
+	'credit'					=> 'Credit',	
+	)
+);
